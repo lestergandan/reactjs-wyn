@@ -1,4 +1,4 @@
-# Wyn Calculator System 2
+# Wyn Calculator System with PDF and Draggable
 
 ## Build Instructions
 1. npm build
