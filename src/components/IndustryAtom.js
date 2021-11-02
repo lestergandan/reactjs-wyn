@@ -74,7 +74,7 @@ function Graph(props) {
         <div className={pdf ? "col-xs-4 flex-center" : "col-md-4 col-sm-12 col-xs-12 flex-center"}>
             <div className={props.class}>
                 <div
-                    className={pdf ? 'pdf-graph-view' :'graph-view'}
+                    className={pdf ? 'pdf-graph-view' : 'graph-view'}
                     style={{
                         '--img1': `url(${props.img1})`,
                         '--img2': `url(${props.img2})`
